@@ -1,0 +1,1 @@
+<footer class="mt-3 text-center col-12"> <p class="col-12 p-1 text-center text-white"><small>themes by <a class="text-white" href="http://axcora.my.id/pico/cuteblog/">cuteblog</a> built with <a class="text-white" href="https://sapper.svelte.dev/">Sapper</a> powered by <a class="text-white" href="https://website.axcora.com">axcora</a></small></p></footer>
